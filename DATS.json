@@ -1,5 +1,5 @@
 {
-    "title": "OpenPain thermal",
+    "title": "OpenPain cbp_resting",
     "description": "Data added from ftp://openpain.org/cbp_resting, see http://openpain.org for more information.",
     
     "creators": [
@@ -16,6 +16,20 @@
             "value": "fMRI"
         }
     ],
+    "distributions": [
+	        {
+			"formats": [
+				"NIfTI"
+            		],
+			"size" : 3.96,
+		        "unit" : {
+            			"value": "GB"
+		        },
+			"access": {
+				"landingPage": "https://www.openpain.org/"
+			}
+		}
+	],
     "version": "1.0",
     "privacy": "Open Access",
     "isAbout": [
@@ -30,7 +44,32 @@
             "values": [
                 {
                     "value": "136"
-                }
+                },
+
+	{
+			"category": "contact",
+			"values": [
+				{
+					"value": "A. Vania Apkarian, Director Center for Translational Pain Research, Northwestern University, Feinberg School of Medicine, a-apkarian@northwestern.edu"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "418"
+				}
+			]
+		},
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "http://openpain.org/images/OP_Pic1.jpg"
+				}
+			]
+		}
             ]
         }
     ]
