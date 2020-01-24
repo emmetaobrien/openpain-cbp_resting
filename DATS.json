@@ -44,13 +44,22 @@
             "values": [
                 {
                     "value": "136"
-                },
-
+                }
+		]
+	},
 	{
 			"category": "contact",
 			"values": [
 				{
 					"value": "A. Vania Apkarian, Director Center for Translational Pain Research, Northwestern University, Feinberg School of Medicine, a-apkarian@northwestern.edu"
+				}
+			]
+		},
+		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "external"
 				}
 			]
 		},
