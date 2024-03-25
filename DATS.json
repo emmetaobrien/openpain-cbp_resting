@@ -1,19 +1,21 @@
 {
     "title": "OpenPain cbp_resting",
     "description": "Data added from ftp://openpain.org/cbp_resting, see http://openpain.org for more information.",
-    
+
     "creators": [
         {
             "@type": "Organization",
             "name": "OpenPain"
         }
     ],
-    "types": [
-        { 
-            "value": "MRI"
+ 	"types": [
+        {
+            "value": "MRI",
+            "valueIRI": "http://uri.interlex.org/ilx_0779748"
         },
-        { 
-            "value": "fMRI"
+        {
+            "value": "fMRI",
+            "valueIRI": "http://uri.interlex.org/ilx_0506130"
         }
     ],
     "distributions": [
